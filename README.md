@@ -19,9 +19,9 @@
 </p>
 
 
-### ⚡ Toolbelt
+### ⚡ Technologies
 
-<p float="left">
+<p align="center">
   
   <img height="30" alt="C++" src="https://img.shields.io/badge/-C%2B%2B-orange?style=plastic&logo=cplusplus"/>
   <img height="30" alt="Python" src="https://img.shields.io/badge/-Python-ffcd3a?style=plastic&logo=python"/>
