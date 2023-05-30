@@ -17,12 +17,13 @@
 
 ---
 
-<p align="center">
-  
-  
-[![Zeid GitHub stats](https://github-readme-stats.vercel.app/api?username=zeidk&theme=tokyonight)](https://github.com/zeidk/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeidk&layout=compact&langs_count=10&rank_icon=github&count_private=true&ring_color=eb3467&show_icons=true&include_all_commits=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidk&theme=transparent&langs_count=7&layout=compact" />
+</a>
 
-</p>
 
 ---
 
