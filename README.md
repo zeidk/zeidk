@@ -17,7 +17,15 @@
 </p>
 
 
+### ⚡ Toolbelt
 
+<p float="left">
+  <img height="20" alt="C++" src="https://img.shields.io/badge/Language-C%2B%2B-orange?style=plastic&logo=cplusplus"/>
+  <img height="20" alt="Python" src="https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=python"/>
+  <img height="20" alt="LaTeX" src="https://img.shields.io/badge/Language-LaTeX-critical?style=plastic&logo=latex"/>
+  <img height="20" alt="Git" src="https://img.shields.io/badge/Software-Git-yellow?style=plastic&logo=git"/>
+  <img height="20" alt="GitHub" src="https://img.shields.io/badge/Software-Github-green?style=plastic&logo=github"/>
+</p>
 
 ### ⚡ Stats
 
@@ -47,15 +55,7 @@
   
 
 
-### ⚡ Toolbelt
 
-<p float="left">
-  <img height="20" alt="C++" src="https://img.shields.io/badge/language-C%2B%2B-orange?style=plastic&logo=cplusplus"/>
-  <img height="20" alt="Python" src="https://img.shields.io/badge/language-python-informational?style=plastic&logo=python"/>
-  <img height="20" alt="LaTeX" src="https://img.shields.io/badge/language-LaTeX-critical?style=plastic&logo=latex"/>
-  <img height="20" alt="Git" src="https://img.shields.io/badge/language-Git-yellow?style=plastic&logo=git"/>
-  <img height="20" alt="GitHub" src="https://img.shields.io/badge/language-Github-green?style=plastic&logo=github"/>
-</p>
 
 <!--START_SECTION:waka-->
 
