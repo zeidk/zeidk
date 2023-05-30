@@ -25,6 +25,14 @@
   <img height="20" alt="LaTeX" src="https://img.shields.io/badge/Language-LaTeX-critical?style=plastic&logo=latex"/>
   <img height="20" alt="Git" src="https://img.shields.io/badge/Software-Git-yellow?style=plastic&logo=git"/>
   <img height="20" alt="GitHub" src="https://img.shields.io/badge/Software-Github-green?style=plastic&logo=github"/>
+  <img height="20" alt="Docker" src="https://img.shields.io/badge/Software-Docker-red?style=plastic&logo=docker"/>
+  <img height="20" alt="Notion" src="https://img.shields.io/badge/Software-Notion-black?style=plastic&logo=notion"/>
+  <img height="20" alt="VSCode" src="https://img.shields.io/badge/Software-VSCode-blue?style=plastic&logo=visualstudiocode"/>
+  
+  
+
+  
+  <img height="20" alt="Ubuntu" src="https://img.shields.io/badge/OS-Ubuntu-yellowgreen?style=plastic&logo=ubuntu"/>
 </p>
 
 ### ⚡ Stats
