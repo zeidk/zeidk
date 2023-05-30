@@ -10,7 +10,7 @@
 - 📫 How to reach me: zeid.kootbally@nist.gov
 
 <!--START_SECTION:waka-->
-![](https://wakatime.com/share/@af609a7f-e79c-4b20-b63d-6f86656210f4/28b94a84-d067-4277-b074-d46702cd267b.svg)
+<img src="https://wakatime.com/share/@af609a7f-e79c-4b20-b63d-6f86656210f4/28b94a84-d067-4277-b074-d46702cd267b.svg">
 
 <!--END_SECTION:waka-->
 
