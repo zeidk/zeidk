@@ -19,21 +19,18 @@
 ### ⚡ Toolbelt
 
 <p float="left">
-  <img height="20" alt="C++" src="https://img.shields.io/badge/Language-C%2B%2B-orange?style=plastic&logo=cplusplus"/>
-  <img height="20" alt="Python" src="https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=python"/>
-  <img height="20" alt="LaTeX" src="https://img.shields.io/badge/Language-LaTeX-critical?style=plastic&logo=latex"/>
-  <img height="20" alt="Git" src="https://img.shields.io/badge/Software-Git-yellow?style=plastic&logo=git"/>
-  <img height="20" alt="GitHub" src="https://img.shields.io/badge/Software-Github-green?style=plastic&logo=github"/>
-  <img height="20" alt="Docker" src="https://img.shields.io/badge/Software-Docker-red?style=plastic&logo=docker"/>
-  <img height="20" alt="Notion" src="https://img.shields.io/badge/Software-Notion-black?style=plastic&logo=notion"/>
-  <img height="20" alt="ROS" src="https://img.shields.io/badge/Software-ROS-2b688f?style=plastic&logo=ros"/>
-  <img height="20" alt="YAML" src="https://img.shields.io/badge/Software-YAML-8f2b8a?style=plastic&logo=yaml"/>
-  <img height="20" alt="VSCode" src="https://img.shields.io/badge/Software-VSCode-blue?style=plastic&logo=visualstudiocode"/>
   
-  
-
-  
-  <img height="20" alt="Ubuntu" src="https://img.shields.io/badge/OS-Ubuntu-yellowgreen?style=plastic&logo=ubuntu"/>
+  <img height="30" alt="C++" src="https://img.shields.io/badge/-C%2B%2B-orange?style=plastic&logo=cplusplus"/>
+  <img height="30" alt="Python" src="https://img.shields.io/badge/-Python-ffcd3a?style=plastic&logo=python"/>
+  <img height="30" alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=plastic&logo=latex"/>
+  <img height="30" alt="Git" src="https://img.shields.io/badge/-Git-1a77ae?style=plastic&logo=git"/>
+  <img height="30" alt="GitHub" src="https://img.shields.io/badge/-Github-8a1aae?style=plastic&logo=github"/>
+  <img height="30" alt="Docker" src="https://img.shields.io/badge/-Docker-d3d725?style=plastic&logo=docker"/>
+<!--   <img height="20" alt="Notion" src="https://img.shields.io/badge/Software-Notion-black?style=plastic&logo=notion"/> -->
+  <img height="30" alt="ROS" src="https://img.shields.io/badge/-ROS-fa8a05?style=plastic&logo=ros"/>
+<!--   <img height="20" alt="YAML" src="https://img.shields.io/badge/Software-YAML-8f2b8a?style=plastic&logo=yaml"/> -->
+  <img height="30" alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-3182b9?style=plastic&logo=visualstudiocode"/>
+  <img height="30" alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-99b931?style=plastic&logo=ubuntu"/>
 </p>
 
 ### ⚡ Stats
