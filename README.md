@@ -64,17 +64,14 @@
 
 ### ⚡ Code
 
-<p float="left">
-  <img align="center" src="https://wakatime.com/share/@af609a7f-e79c-4b20-b63d-6f86656210f4/4d6d7da7-1e18-48fa-88aa-f4a67a7399f4.svg"/>
-</p>
 
 ```md
-From: 10 July 2020 - To: 06 August 2022
+From: 10 May 2022 - To: 30 May 2023
 
 Total Time: 1,464 hrs 54 mins
 
 Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %
-C++           132 hrs 33 mins >>-----------------------   08.43 %
+C++                132 hrs 33 mins >>-----------------------   08.43 %
 TeX                103 hrs 52 mins >>-----------------------   06.61 %
 ```
 
