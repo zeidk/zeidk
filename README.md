@@ -1,16 +1,38 @@
+<!-- Social Section -->
+<p align="center">
+  <i>Welcome!</i>
+
+<p align="center">
+  <a href= "https://github.com/zeidk/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/zeidkootbally/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+
+  <a href= "[https://www.nist.gov/people/zeid-kootbally](https://www.nist.gov/people/zeid-kootbally)">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  
+  
 [![Zeid GitHub stats](https://github-readme-stats.vercel.app/api?username=zeidk&theme=tokyonight)](https://github.com/zeidk/github-readme-stats)
+
+</p>
+
+---
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: zeid.kootbally@nist.gov
+
+
 
 <!--START_SECTION:waka-->
-<img src="https://wakatime.com/share/@af609a7f-e79c-4b20-b63d-6f86656210f4/28b94a84-d067-4277-b074-d46702cd267b.svg">
+
 
 <!--END_SECTION:waka-->
 
