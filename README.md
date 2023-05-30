@@ -27,6 +27,8 @@
   <img height="20" alt="GitHub" src="https://img.shields.io/badge/Software-Github-green?style=plastic&logo=github"/>
   <img height="20" alt="Docker" src="https://img.shields.io/badge/Software-Docker-red?style=plastic&logo=docker"/>
   <img height="20" alt="Notion" src="https://img.shields.io/badge/Software-Notion-black?style=plastic&logo=notion"/>
+  <img height="20" alt="ROS" src="https://img.shields.io/badge/Software-ROS-2b688f?style=plastic&logo=ros"/>
+  <img height="20" alt="YAML" src="https://img.shields.io/badge/Software-YAML-8f2b8a?style=plastic&logo=yaml"/>
   <img height="20" alt="VSCode" src="https://img.shields.io/badge/Software-VSCode-blue?style=plastic&logo=visualstudiocode"/>
   
   
