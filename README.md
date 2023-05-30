@@ -1,3 +1,5 @@
+[![Waka Readme](https://github.com/zeidk/zeidk/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/waka-readme.yml)
+
 ### ⚡ Social
 
 <p align="center">
