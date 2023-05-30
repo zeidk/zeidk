@@ -1,5 +1,5 @@
 
-![](./profile-3d-contrib/profile-season.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <!--
 **zeidk/zeidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
