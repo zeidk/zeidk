@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href= "https://github.com/zeidk/">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/50/code--v2.png" alt="code--v2"/>
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
   </a>
   <a href= "https://www.linkedin.com/in/zeidkootbally/">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="linkedin-circled"/>
