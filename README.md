@@ -1,6 +1,6 @@
-[![Zeid GitHub stats](https://github-readme-stats.vercel.app/api?username=zeidk)](https://github.com/zeidk/github-readme-stats)
+[![Zeid GitHub stats](https://github-readme-stats.vercel.app/api?username=zeidk&theme=dark)](https://github.com/zeidk/github-readme-stats)
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,9 +10,7 @@
 - 📫 How to reach me: zeid.kootbally@nist.gov
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C206%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-421-blue)
 
 <!--END_SECTION:waka-->
 
