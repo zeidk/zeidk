@@ -40,7 +40,9 @@
 
 ---
 
-
+<!-- <a href= "">
+    <img src="https://wakatime.com/share/@af609a7f-e79c-4b20-b63d-6f86656210f4/4c4d0cc0-7130-43e5-8dd2-b070ef70b7df.svg"/>
+  </a> -->
   
 
 
@@ -50,9 +52,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/af609a7f-e79c-4b20-b63d-6f86656210f4/project/3c423add-d75b-4fd4-9bca-b452ef484eeb.svg)](https://wakatime.com/badge/user/af609a7f-e79c-4b20-b63d-6f86656210f4/project/3c423add-d75b-4fd4-9bca-b452ef484eeb)
 
-<a href= "">
-    <img src="https://wakatime.com/share/@af609a7f-e79c-4b20-b63d-6f86656210f4/4c4d0cc0-7130-43e5-8dd2-b070ef70b7df.svg"/>
-  </a>
+
+```text
+C++         5 hrs 23 mins   █████████████▒░░░░░░░░░░░   52.78 %
+Python     1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+```
 
 <!--END_SECTION:waka-->
 
