@@ -1,4 +1,5 @@
-<!-- Social Section -->
+### ⚡ Social
+
 <p align="center">
   <i>Welcome!</i>
 
@@ -18,7 +19,7 @@
 
 
 
----
+### ⚡ Stats
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usnistgov&repo=ros_carla_seri&theme=transparent")](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -46,12 +47,21 @@
   
 
 
+### ⚡ Toolbelt
 
+<p float="left">
+  <img height="20" alt="C++" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=cpp&logoColor=white"/>
+  <img height="20" alt="Python" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img height="20" alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+  <img height="20" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img height="20" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 <!--START_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/af609a7f-e79c-4b20-b63d-6f86656210f4/project/3c423add-d75b-4fd4-9bca-b452ef484eeb.svg)](https://wakatime.com/badge/user/af609a7f-e79c-4b20-b63d-6f86656210f4/project/3c423add-d75b-4fd4-9bca-b452ef484eeb)
 
+### ⚡ Code
 
 ```text
 C++         5 hrs 23 mins   █████████████▒░░░░░░░░░░░   52.78 %
