@@ -1,6 +1,17 @@
 [![Waka Readme](https://github.com/zeidk/zeidk/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/waka-readme.yml)
 [![GitHub-Profile-3D-Contrib](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml)
 
+
+<h1 align="center">Zeid Kootbally</h1>
+
+
+
+<h5 align="center">Computer Scientist at the National Institute of Standards and Technology</h5>
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=zeidk&color=fb760b&label=Visitors" alt="js" />
+</p>
+
 ### ⚡ Social
 
 <p align="center">
@@ -71,16 +82,17 @@
 ---
 
 <!--START_SECTION:waka-->
+<h4 align="left">Weekly programming languages per time spent</h4>
 
 ```text
-From: 10 May 2022 - To: 30 May 2023
+Total Time: 15 hrs 17 mins
 
-Total Time: 1,464 hrs 54 mins
-
-Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %
-C++                132 hrs 33 mins >>-----------------------   08.43 %
-TeX                103 hrs 52 mins >>-----------------------   06.61 %
+Python       12 hrs 34 mins  ████████████████████▓░░░░   82.22 %
+Other        48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
- </details>
 
 <!--END_SECTION:waka-->
+
+ </details>
+
+
