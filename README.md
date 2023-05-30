@@ -69,7 +69,6 @@
 
 <!--START_SECTION:waka-->
 
-[![wakatime](https://wakatime.com/badge/user/af609a7f-e79c-4b20-b63d-6f86656210f4/project/3c423add-d75b-4fd4-9bca-b452ef484eeb.svg)](https://wakatime.com/badge/user/af609a7f-e79c-4b20-b63d-6f86656210f4/project/3c423add-d75b-4fd4-9bca-b452ef484eeb)
 
 ### ⚡ Code
 
