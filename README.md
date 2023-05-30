@@ -25,7 +25,7 @@
   <img height="30" alt="C++" src="https://img.shields.io/badge/-C%2B%2B-orange?style=plastic&logo=cplusplus"/>
   <img height="30" alt="Python" src="https://img.shields.io/badge/-Python-ffcd3a?style=plastic&logo=python"/>
   <img height="30" alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=plastic&logo=latex"/>
-  <img height="30" alt="Git" src="https://img.shields.io/badge/-Git-1a77ae?style=plastic&logo=git"/>
+<!--   <img height="30" alt="Git" src="https://img.shields.io/badge/-Git-1a77ae?style=plastic&logo=git"/> -->
   <img height="30" alt="GitHub" src="https://img.shields.io/badge/-Github-8a1aae?style=plastic&logo=github"/>
   <img height="30" alt="Docker" src="https://img.shields.io/badge/-Docker-d3d725?style=plastic&logo=docker"/>
 <!--   <img height="20" alt="Notion" src="https://img.shields.io/badge/Software-Notion-black?style=plastic&logo=notion"/> -->
