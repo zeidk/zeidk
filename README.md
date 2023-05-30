@@ -19,17 +19,23 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usnistgov&repo=ros_carla_seri&theme=transparent")](https://github.com/anuraghazra/github-readme-stats) -->
 
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeidk&layout=compact&langs_count=10&rank_icon=github&count_private=true&ring_color=eb3467&show_icons=true&include_all_commits=true&theme=transparent&title_color=eb3467" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zeidk&layout=compact&langs_count=10&rank_icon=github&count_private=true&ring_color=eb3467&show_icons=true&include_all_commits=true&theme=transparent&title_color=eb3467" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidk&title_color=eb3467&theme=transparent&langs_count=7&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidk&title_color=eb3467&theme=transparent&langs_count=7&layout=compact" />
 </a>
+</p>
 
 
----
+<p align="center">
+  <a href= "./profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+  </a>
+</p>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
 
 
