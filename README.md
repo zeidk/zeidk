@@ -1,3 +1,4 @@
+[![Zeid GitHub stats](https://github-readme-stats.vercel.app/api?username=zeidk)](https://github.com/zeidk/github-readme-stats)
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
