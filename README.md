@@ -50,11 +50,11 @@
 ### ⚡ Toolbelt
 
 <p float="left">
-  <img height="20" alt="C++" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=cpp&logoColor=white"/>
-  <img height="20" alt="Python" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img height="20" alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-  <img height="20" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img height="20" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="20" alt="C++" src="https://img.shields.io/badge/language-C%2B%2B-orange?style=plastic&logo=cplusplus"/>
+  <img height="20" alt="Python" src="https://img.shields.io/badge/language-python-informational?style=plastic&logo=python"/>
+  <img height="20" alt="LaTeX" src="https://img.shields.io/badge/language-LaTeX-critical?style=plastic&logo=latex"/>
+  <img height="20" alt="Git" src="https://img.shields.io/badge/language-Git-yellow?style=plastic&logo=git"/>
+  <img height="20" alt="GitHub" src="https://img.shields.io/badge/language-Github-green?style=plastic&logo=github"/>
 </p>
 
 <!--START_SECTION:waka-->
