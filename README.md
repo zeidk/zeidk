@@ -50,6 +50,7 @@
 
 ### ⚡ Stats
 
+<details>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usnistgov&repo=ros_carla_seri&theme=transparent")](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
@@ -80,5 +81,6 @@ Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %
 C++                132 hrs 33 mins >>-----------------------   08.43 %
 TeX                103 hrs 52 mins >>-----------------------   06.61 %
 ```
+ </details>
 
 <!--END_SECTION:waka-->
