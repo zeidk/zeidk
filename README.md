@@ -55,6 +55,7 @@
 
 ---
 
+
 <!-- <a href= "">
     <img src="https://wakatime.com/share/@af609a7f-e79c-4b20-b63d-6f86656210f4/4c4d0cc0-7130-43e5-8dd2-b070ef70b7df.svg"/>
   </a> -->
@@ -68,10 +69,10 @@
 
 ### ⚡ Code
 
-```text
-C++         5 hrs 23 mins   █████████████▒░░░░░░░░░░░   52.78 %
-Python     1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-```
+<p float="left">
+  <img align="center" src="https://wakatime.com/share/@af609a7f-e79c-4b20-b63d-6f86656210f4/4d6d7da7-1e18-48fa-88aa-f4a67a7399f4.svg"/>
+</p>
+
 
 <!--END_SECTION:waka-->
 
