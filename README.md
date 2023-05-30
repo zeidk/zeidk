@@ -1,18 +1,17 @@
 ### ⚡ Social
 
 <p align="center">
-  <i>Welcome!</i>
 
 <p align="center">
   <a href= "https://github.com/zeidk/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+    <img width="64" height="64" src="https://img.icons8.com/nolan/50/code--v2.png" alt="code--v2"/>
   </a>
   <a href= "https://www.linkedin.com/in/zeidkootbally/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="linkedin-circled"/>
   </a>
 
   <a href= "[https://www.nist.gov/people/zeid-kootbally](https://www.nist.gov/people/zeid-kootbally)">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/domain.png" alt="domain"/>
   </a>
 </p>
 
