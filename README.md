@@ -1,7 +1,9 @@
 
 
 [![GitHub-Profile-3D-Contrib](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml)
-[![Metrics](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml)
+[![Recent activity](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml)
+[![Achievements](https://github.com/zeidk/zeidk/actions/workflows/achievements.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/achievements.yml)
+[![Wakatime](https://github.com/zeidk/zeidk/actions/workflows/wakatime.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/wakatime.yml)
 
 
 <h1 align="center">Zeid Kootbally</h1>
