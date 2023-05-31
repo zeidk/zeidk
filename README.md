@@ -1,5 +1,6 @@
 [![Waka Readme](https://github.com/zeidk/zeidk/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/waka-readme.yml)
 [![GitHub-Profile-3D-Contrib](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml)
+[![Metrics](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml)
 
 
 <h1 align="center">Zeid Kootbally</h1>
