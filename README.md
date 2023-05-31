@@ -77,7 +77,7 @@
 <img src="/metrics.plugin.wakatime.svg" alt="Wakatime" style="width:70%">
 </p>
 
----
+### ⚡ All Time Stats
 
 <p align="center">
 <img src="/github-metrics.svg" alt="Wakatime" style="width:60%">
