@@ -88,14 +88,14 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=zeidk&layout=compact&langs_count=10&rank_icon=github&count_private=true&ring_color=eb3467&show_icons=true&include_all_commits=true&theme=transparent&title_color=eb3467" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidk&title_color=eb3467&theme=transparent&langs_count=7&layout=compact" />
 </a>
-</p>
+</p> -->
 
 
 
