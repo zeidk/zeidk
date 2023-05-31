@@ -79,11 +79,8 @@
   </a>
 </p>
 
----
-
-<!--START_SECTION:waka-->
 <h4 align="left">Weekly programming languages per time spent</h4>
-
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
  </details>
