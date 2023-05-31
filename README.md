@@ -77,7 +77,7 @@
 <img src="/metrics.plugin.wakatime.svg" alt="Wakatime" style="width:70%">
 </p>
 
-### ⚡ All Time Stats
+### ⚡ Past Year Stats
 
 <p align="center">
 <img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="Wakatime" style="width:80%">
