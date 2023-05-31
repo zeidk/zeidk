@@ -77,6 +77,10 @@
 <img src="/metrics.plugin.wakatime.svg" alt="Wakatime" style="width:70%">
 </p>
 
+<p align="center">
+<img src="/github-metrics.svg" alt="Wakatime" style="width:60%">
+</p>
+
 ### ⚡ Past Year Stats
 
 <p align="center">
