@@ -74,7 +74,7 @@
 
 <p align="center">
   <a href= "./profile-3d-contrib/profile-south-season-animate.svg">
-    <img src="./profile-3d-contrib/profile-south-season-animate.svg"/>
+    <img src="./profile-3d-contrib/profile-south-season-animate.svg" width="400"/>
   </a>
 </p>
 
