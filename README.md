@@ -1,4 +1,5 @@
 
+
 [![GitHub-Profile-3D-Contrib](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml)
 [![Metrics](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml)
 
@@ -72,20 +73,26 @@
 
 ### ⚡ Stats
 
-<p align="center">
-  <a href= "./profile-3d-contrib/profile-south-season-animate.svg">
-    <img src="./profile-3d-contrib/profile-south-season-animate.svg" width="400"/>
+ <div class="row">
+  <div class="column">
+    <img src="/metrics.plugin.wakatime.svg" alt="Wakatime" style="width:50%">
+  </div>
+  <div class="column">
+    <img src="./profile-3d-contrib/profile-south-season-animate.svg" style="width:50%"/>
+  </div>
+</div> 
+
+<!-- <p align="center">
+	<a href= "./profile-3d-contrib/profile-south-season-animate.svg">
+<img align="center" src="/metrics.plugin.wakatime.svg" alt="Wakatime" width="300">
+		</a>
+<a href= "./profile-3d-contrib/profile-south-season-animate.svg">
+    <img src="./profile-3d-contrib/profile-south-season-animate.svg" width="300"/>
   </a>
-</p>
+	</p> -->
+<!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> -->
 
 
-<p align="center">
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-</p>
-
-<p align="center">
-<img align="center" src="/metrics.plugin.wakatime.svg" alt="Wakatime" width="400">
-</p>
 
 
 <!-- <p align="center">
