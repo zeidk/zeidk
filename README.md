@@ -25,6 +25,10 @@
   <a href= "https://www.nist.gov/people/zeid-kootbally">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/domain.png" alt="domain"/>
   </a>
+	
+<a href= "https://scholar.google.com/citations?user=zntPecQAAAAJ&hl=en">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/google-scholar.png" alt="scholar"/>
+  </a>
 
   <a href= "https://github.com/zeidk/resume/blob/main/resume.pdf">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/resume.png" alt="resume"/>
