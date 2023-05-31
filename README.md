@@ -22,7 +22,7 @@
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="linkedin-circled"/>
   </a>
 
-  <a href= "[https://www.nist.gov/people/zeid-kootbally](https://www.nist.gov/people/zeid-kootbally)">
+  <a href= "https://www.nist.gov/people/zeid-kootbally">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/domain.png" alt="domain"/>
   </a>
 </p>
