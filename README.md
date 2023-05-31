@@ -84,13 +84,6 @@
 <!--START_SECTION:waka-->
 <h4 align="left">Weekly programming languages per time spent</h4>
 
-```text
-Total Time: 15 hrs 17 mins
-
-Python       12 hrs 34 mins  ████████████████████▓░░░░   82.22 %
-Other        48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-```
-
 <!--END_SECTION:waka-->
 
  </details>
