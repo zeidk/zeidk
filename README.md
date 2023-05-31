@@ -73,14 +73,14 @@
 
 ### ⚡ Stats
 
- <div class="row">
-  <div class="column">
-    <img src="/metrics.plugin.wakatime.svg" alt="Wakatime" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="./profile-3d-contrib/profile-south-season-animate.svg" style="width:50%"/>
-  </div>
-</div> 
+<p align="center">
+<img src="/metrics.plugin.wakatime.svg" alt="Wakatime" style="width:50%">
+</p>
+
+<p align="center">
+<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="Wakatime" style="width:50%">
+</p>
+
 
 <!-- <p align="center">
 	<a href= "./profile-3d-contrib/profile-south-season-animate.svg">
