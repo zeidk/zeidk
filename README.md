@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="/metrics-plugin.wakatime.svg" alt="Wakatime" width="400">
+<img align="center" src="/metrics.plugin.wakatime.svg" alt="Wakatime" width="400">
 </p>
 
 
