@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="Wakatime" style="width:70%">
+<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="Wakatime" style="width:80%">
 </p>
 
 
