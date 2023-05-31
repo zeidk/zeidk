@@ -13,7 +13,7 @@
 <h5 align="center">Computer Scientist at the National Institute of Standards and Technology</h5>
 
 <p align="center">
-	<img width="64" height="64" src="https://komarev.com/ghpvc/?username=zeidk&style=plastic&color=fb760b&label=Visitors" alt="js" />
+	<img src="https://komarev.com/ghpvc/?username=zeidk&style=plastic&color=lightgrey&label=Visitors" alt="js" />
 </p>
 
 <p align="center">
