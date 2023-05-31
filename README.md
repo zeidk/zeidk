@@ -80,7 +80,7 @@
 ### ⚡ Past Year Stats
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="Wakatime" style="width:80%">
+<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="Wakatime" style="width:90%">
 </p>
 
 
