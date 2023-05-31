@@ -71,6 +71,14 @@
 </p>
 
 ### ⚡ Stats
+
+<p align="center">
+  <a href= "./profile-3d-contrib/profile-south-season-animate.svg">
+    <img src="./profile-3d-contrib/profile-south-season-animate.svg"/>
+  </a>
+</p>
+
+
 <p align="center">
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 </p>
@@ -83,11 +91,7 @@
 </a>
 </p>
 
-<p align="center">
-  <a href= "./profile-3d-contrib/profile-south-season-animate.svg">
-    <img src="./profile-3d-contrib/profile-south-season-animate.svg"/>
-  </a>
-</p>
+
 
 
 
