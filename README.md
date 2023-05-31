@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img src="/metrics.plugin.achievements.compact.svg" alt="Achievements" style="width:50%">
+<img src="/metrics.plugin.achievements.compact.svg" alt="Achievements" style="width:70%">
 </p>
 
 ### ⚡ Social
