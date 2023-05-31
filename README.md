@@ -14,6 +14,10 @@
 	<img src="https://komarev.com/ghpvc/?username=zeidk&color=fb760b&label=Visitors" alt="js" />
 </p>
 
+<p align="center">
+<img src="/metrics.plugin.achievements.compact.svg" alt="Achievements" style="width:50%">
+</p>
+
 ### ⚡ Social
 
 <p align="center">
@@ -71,9 +75,7 @@
   </a>
 </p>
 
-<p align="center">
-<img src="/metrics.plugin.achievements.compact.svg" alt="Achievements" style="width:70%">
-</p>
+
 
 ### ⚡ Past Week Stats
 
