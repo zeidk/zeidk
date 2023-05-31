@@ -82,6 +82,12 @@
 <p align="center">
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 </p>
+
+<p align="center">
+<img align="center" src="/metrics-plugin.wakatime.svg" alt="Wakatime" width="400">
+</p>
+
+
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=zeidk&layout=compact&langs_count=10&rank_icon=github&count_private=true&ring_color=eb3467&show_icons=true&include_all_commits=true&theme=transparent&title_color=eb3467" />
