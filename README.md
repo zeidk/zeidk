@@ -46,7 +46,7 @@
 
 </p>
 
-### ⚡ Technologies
+### ⚡ Tech
 
 <p align="center">
   <a href= "https://isocpp.org/">
