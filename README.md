@@ -3,6 +3,7 @@
 [![GitHub-Profile-3D-Contrib](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml)
 [![Recent activity](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml)
 [![Achievements](https://github.com/zeidk/zeidk/actions/workflows/achievements.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/achievements.yml)
+[![Indepth analysis](https://github.com/zeidk/zeidk/actions/workflows/analysis.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/analysis.yml)
 
 
 
