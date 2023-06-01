@@ -1,7 +1,7 @@
 name:  Indepth analysis
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 */3 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
 jobs:
