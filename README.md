@@ -81,9 +81,6 @@
 
 ### ⚡ Past Week Stats
 
-<p align="center">
-<img src="./metrics.plugin.wakatime.svg" alt="Wakatime" style="width:70%">
-</p>
 
 ---
 
