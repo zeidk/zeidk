@@ -85,6 +85,7 @@
 <p align="center">
 <img src="/metrics.plugin.languages.indepth.svg" alt="Analysis" style="width:70%">
 </p>
+
 ---
 
 <p align="center">
