@@ -1,20 +1,16 @@
-name: Wakatime
+name: Waka Readme
+
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
+
 jobs:
-  generate_achievements:
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
-    permissions:
-      contents: read/write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: athul/waka-readme@master
         with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
