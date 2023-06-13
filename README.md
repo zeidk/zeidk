@@ -4,6 +4,7 @@
 [![Recent activity](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml)
 [![Achievements](https://github.com/zeidk/zeidk/actions/workflows/achievements.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/achievements.yml)
 [![Indepth analysis](https://github.com/zeidk/zeidk/actions/workflows/analysis.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/analysis.yml)
+[![Waka Readme](https://github.com/zeidk/zeidk/actions/workflows/wakatime.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/wakatime.yml)
 
 
 
