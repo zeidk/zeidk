@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 515mb of code in 7525 edited files across 1263 commits</small>
+                <small>estimation from 515mb of code in 7570 edited files across 1265 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.70186449835697" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="249.70186449835697" y="0" width="137.12464769395655" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="386.8265121923135" y="0" width="45.05578968812833" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="431.88230188044184" y="0" width="20.94856110328701" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="452.8308629837288" y="0" width="7.16913701627118" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.75914270513957" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="233.75914270513957" y="0" width="128.36964655061473" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="362.12878925575427" y="0" width="71.54874406793829" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="433.6775333236926" y="0" width="19.61105774779998" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="453.2885910714926" y="0" width="6.7114089285074625" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                             <small>
                                 <div>81k lines</div>
                                 <div>3.06 MB</div>
-                                <div>54.28%</div>
+                                <div>50.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -53,7 +53,7 @@
                             <small>
                                 <div>49.5k lines</div>
                                 <div>1.68 MB</div>
-                                <div>29.81%</div>
+                                <div>27.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,9 +64,9 @@
                                 TeX
                             </div>
                             <small>
-                                <div>11.4k lines</div>
-                                <div>552 kB</div>
-                                <div>9.79%</div>
+                                <div>21k lines</div>
+                                <div>937 kB</div>
+                                <div>15.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -79,7 +79,7 @@
                             <small>
                                 <div>7.79k lines</div>
                                 <div>257 kB</div>
-                                <div>4.55%</div>
+                                <div>4.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -92,7 +92,7 @@
                             <small>
                                 <div>2.19k lines</div>
                                 <div>87.9 kB</div>
-                                <div>1.56%</div>
+                                <div>1.46%</div>
                             </small>
                         </div>
                     </section>
