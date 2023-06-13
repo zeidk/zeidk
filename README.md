@@ -80,7 +80,7 @@
 
 
 
-### ⚡ Past Week Stats
+### ⚡ Past Week
 
 <!-- <p align="center">
 <img src="/metrics.plugin.languages.indepth.svg" alt="Analysis" style="width:70%">
@@ -112,7 +112,7 @@ JSON         21 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 
-### ⚡ Past Year Stats
+### ⚡ Past 6 Months
 
 <p align="center">
 <img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="Wakatime" style="width:90%">
