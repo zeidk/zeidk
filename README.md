@@ -2,7 +2,6 @@
 
 [![GitHub-Profile-3D-Contrib](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml)
 [![Recent activity](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml)
-[![Achievements](https://github.com/zeidk/zeidk/actions/workflows/achievements.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/achievements.yml)
 [![Indepth analysis](https://github.com/zeidk/zeidk/actions/workflows/analysis.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/analysis.yml)
 [![Waka Readme](https://github.com/zeidk/zeidk/actions/workflows/wakatime.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/wakatime.yml)
 
@@ -16,10 +15,6 @@
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=zeidk&style=plastic&color=lightgrey&label=Visitors" alt="js" />
-</p>
-
-<p align="center">
-<img src="/metrics.plugin.achievements.compact.svg" alt="Achievements" style="width:70%">
 </p>
 
 ### ⚡ Social
