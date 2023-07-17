@@ -11,7 +11,7 @@
 
 
 
-<h5 align="center">Computer Scientist at the National Institute of Standards and Technology</h5>
+<h5 align="center">Computer Scientist at the National Institute of Standards and Technology (NIST)</h5>
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=zeidk&style=plastic&color=lightgrey&label=Visitors" alt="js" />
