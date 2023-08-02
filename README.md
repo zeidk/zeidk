@@ -17,6 +17,12 @@
 	<img src="https://komarev.com/ghpvc/?username=zeidk&style=plastic&color=lightgrey&label=Visitors" alt="js" />
 </p>
 
+
+<p align="center">
+<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="Wakatime" style="width:70%">
+</p>
+
+
 ### ⚡ Social
 
 <p align="center">
@@ -109,12 +115,6 @@ Text               54 mins         ▓░░░░░░░░░░░░░░
 </p> -->
 
 
-
-### ⚡ Past 6 Months
-
-<p align="center">
-<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="Wakatime" style="width:90%">
-</p>
 
 
 <!-- <p align="center">
