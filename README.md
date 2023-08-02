@@ -105,7 +105,7 @@ Text               54 mins         ▓░░░░░░░░░░░░░░
 ---
 
 <p align="center">
-<img src="/metrics.plugin.activity.svg" alt="Activity" style="width:70%">
+<img src="/metrics.plugin.activity.svg" alt="Activity" style="width:50%">
 </p>
 
 <!-- ### ⚡ All Time Stats
