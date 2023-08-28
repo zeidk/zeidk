@@ -91,9 +91,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 5 hrs 1 min
 
-No activity tracked
+C++              2 hrs 29 mins   ████████████▒░░░░░░░░░░░░   49.48 %
+JSON             2 hrs 2 mins    ██████████░░░░░░░░░░░░░░░   40.48 %
+Ezhil            12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+ActionScript 3   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Text             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
