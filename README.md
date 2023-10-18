@@ -91,13 +91,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 14 mins
+Total Time: 15 hrs 25 mins
 
-C++              5 hrs 12 mins   ████████████▓░░░░░░░░░░░░   50.86 %
-C                4 hrs 36 mins   ███████████▒░░░░░░░░░░░░░   44.90 %
-JSON             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Objective-C      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-ActionScript 3   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+C++              8 hrs 10 mins   █████████████▒░░░░░░░░░░░   52.94 %
+C                6 hrs 42 mins   ███████████░░░░░░░░░░░░░░   43.46 %
+Objective-C      15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+JSON             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+ActionScript 3   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
