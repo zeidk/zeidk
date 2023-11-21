@@ -93,7 +93,11 @@
 ```txt
 Total Time: 3 hrs 40 mins
 
-No activity tracked
+C++      1 hr 55 mins    ████████████▓░░░░░░░░░░░░   51.27 %
+Python   30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+CMake    30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
+YAML     18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Bash     18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
 ```
 
 <!--END_SECTION:waka-->
