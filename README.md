@@ -91,13 +91,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 11 mins
+Total Time: 0 secs
 
-C++      57 mins         ██████████▓░░░░░░░░░░░░░░   43.20 %
-CMake    26 mins         █████░░░░░░░░░░░░░░░░░░░░   19.84 %
-Python   21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
-Bash     18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
-YAML     8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
