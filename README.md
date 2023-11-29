@@ -91,9 +91,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs 7 mins
 
-No activity tracked
+CMake    1 hr            ██████████▓░░░░░░░░░░░░░░   43.17 %
+C++      41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.95 %
+XML      15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Other    11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+Python   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
 ```
 
 <!--END_SECTION:waka-->
