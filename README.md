@@ -91,13 +91,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 20 mins
+Total Time: 1 hr 10 mins
 
-Python   2 hrs 9 mins    ████████████████░░░░░░░░░   64.03 %
-sh       50 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
-XML      9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-CMake    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Bash     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+sh       50 mins         █████████████████▓░░░░░░░   70.93 %
+Python   20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.07 %
 ```
 
 <!--END_SECTION:waka-->
