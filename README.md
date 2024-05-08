@@ -91,10 +91,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 2 mins
+Total Time: 20 mins
 
-sh       42 mins         ████████████████▓░░░░░░░░   67.28 %
-Python   20 mins         ████████▒░░░░░░░░░░░░░░░░   32.72 %
+Python   20 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
