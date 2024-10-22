@@ -91,13 +91,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 14 mins
+Total Time: 11 hrs 52 mins
 
-C++           14 hrs 1 min    ████████████████▒░░░░░░░░   64.86 %
-Other         7 hrs 22 mins   ████████▓░░░░░░░░░░░░░░░░   34.14 %
-CMake         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Git Config    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Markdown      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+C++           11 hrs 38 mins  ███████████████████▓░░░░░   78.78 %
+Other         2 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+CMake         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Git Config    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Markdown      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
