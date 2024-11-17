@@ -122,7 +122,7 @@ Git Config   8 mins          ▒░░░░░░░░░░░░░░░░
 <img align="center" src="/metrics.plugin.wakatime.svg" alt="Wakatime" width="300">
 		</a>
 <a href= "./profile-3d-contrib/profile-south-season-animate.svg">
-    <img src="./profile-3d-contrib/profile-south-season-animate.svg" width="300"/>
+    <img src="./profile-3d-contrib/profile-gitblock.svg" width="300"/>
   </a>
 	</p> -->
 <!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> -->
