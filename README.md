@@ -91,11 +91,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 19 mins
+Total Time: 3 hrs 41 mins
 
-Python             48 mins         ███████████████░░░░░░░░░░   60.61 %
-JSON               18 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
-reStructuredText   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+Python   3 hrs 41 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
