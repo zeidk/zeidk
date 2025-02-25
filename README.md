@@ -91,11 +91,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 35 mins
+Total Time: 3 hrs 31 mins
 
-Python     3 hrs 21 mins   ███████████████████████▒░   93.68 %
-Markdown   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Python     3 hrs 15 mins   ███████████████████████░░   92.37 %
+Markdown   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+CSV        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+SQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
