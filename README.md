@@ -91,9 +91,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 mins
+Total Time: 30 mins
 
-Text   2 mins          █████████████████████████   100.00 %
+Bash       11 mins         █████████░░░░░░░░░░░░░░░░   36.54 %
+YAML       8 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
+Markdown   8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
+Text       2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
 ```
 
 <!--END_SECTION:waka-->
