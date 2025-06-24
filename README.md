@@ -91,12 +91,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 11 mins
+Total Time: 46 mins
 
-YAML         1 hr 5 mins     █████████████████████▒░░░   85.39 %
-Other        5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-Git Config   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+YAML         40 mins         ███████████████████▓░░░░░   78.38 %
+Other        5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
+Git Config   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
