@@ -91,10 +91,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 mins
+Total Time: 0 secs
 
-HTML    5 mins          ███████████████████████▒░   93.35 %
-Other   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
