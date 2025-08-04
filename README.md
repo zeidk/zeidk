@@ -91,12 +91,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 47 mins
+Total Time: 0 secs
 
-C++     1 hr 6 mins     ███████████████▓░░░░░░░░░   62.22 %
-JSON    17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
-Text    15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
-CMake   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
