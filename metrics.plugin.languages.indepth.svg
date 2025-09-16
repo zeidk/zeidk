@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 361mb of code in 3923 edited files across 427 commits</small>
+                <small>estimation from 361mb of code in 3924 edited files across 428 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.03843716144897" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="184.03843716144897" y="0" width="146.62413283286648" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="330.66256999431545" y="0" width="85.54745545761284" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="416.2100254519283" y="0" width="31.54672272766739" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="447.75674817959566" y="0" width="12.24325182040432" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.0357646887985" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="184.0357646887985" y="0" width="146.6220036635965" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="330.657768352395" y="0" width="85.54621319953593" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="416.20398155193095" y="0" width="31.552944415284248" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="447.7569259672152" y="0" width="12.243074032784802" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -77,7 +77,7 @@
                                 CMake
                             </div>
                             <small>
-                                <div>6.50k lines</div>
+                                <div>6.51k lines</div>
                                 <div>226 kB</div>
                                 <div>6.86%</div>
                             </small>
