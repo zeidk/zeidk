@@ -91,10 +91,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 mins
+Total Time: 1 hr 46 mins
 
-CMake   4 mins          ███████████████████▓░░░░░   78.98 %
-C++     1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.02 %
+C++        1 hr 31 mins    █████████████████████▒░░░   85.58 %
+CMake      15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
