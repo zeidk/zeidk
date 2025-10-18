@@ -91,13 +91,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 8 mins
+Total Time: 6 hrs 36 mins
 
-Image (svg)   3 hrs 52 mins   ███████████████▓░░░░░░░░░   62.23 %
-TeX           1 hr 47 mins    ███████░░░░░░░░░░░░░░░░░░   28.60 %
-JSON          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Text          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Bash          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Python             1 hr 55 mins    ███████░░░░░░░░░░░░░░░░░░   28.46 %
+TeX                1 hr 47 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
+Image (svg)        46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Bash               39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+reStructuredText   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
 ```
 
 <!--END_SECTION:waka-->
