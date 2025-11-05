@@ -91,13 +91,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 30 mins
+Total Time: 10 hrs 59 mins
 
-C++                3 hrs 38 mins   ████████████░░░░░░░░░░░░░   48.50 %
-reStructuredText   1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
-Image (svg)        50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-CSS                47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-CMake              40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+C++                5 hrs 48 mins   █████████████░░░░░░░░░░░░   52.66 %
+reStructuredText   1 hr 46 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+Image (svg)        50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+CSS                47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+CMake              44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
 ```
 
 <!--END_SECTION:waka-->
