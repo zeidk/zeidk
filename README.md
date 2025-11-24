@@ -91,13 +91,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 32 mins
+Total Time: 9 hrs 20 mins
 
-reStructuredText   3 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   36.89 %
-Bash               1 hr 51 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
-Python             1 hr 49 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
-C++                36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Git Config         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+reStructuredText   3 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.77 %
+Bash               1 hr 51 mins    █████░░░░░░░░░░░░░░░░░░░░   19.90 %
+Python             1 hr 49 mins    █████░░░░░░░░░░░░░░░░░░░░   19.49 %
+C++                56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+CMake              35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
 ```
 
 <!--END_SECTION:waka-->
