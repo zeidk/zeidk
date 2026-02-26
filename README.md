@@ -91,12 +91,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 6 mins
+Total Time: 8 hrs 12 mins
 
-Python             4 hrs 2 mins          ███████████████████▓░░░░░   79.27 %
-reStructuredText   1 hr                  █████░░░░░░░░░░░░░░░░░░░░   19.76 %
-JSON               2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Bash               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python             4 hrs 12 mins         ████████████▓░░░░░░░░░░░░   51.24 %
+reStructuredText   2 hrs 29 mins         ███████▓░░░░░░░░░░░░░░░░░   30.31 %
+PlantUML           1 hr 24 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
+Text               3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+JSON               2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
