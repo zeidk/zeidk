@@ -14,19 +14,8 @@ I am a member of the Engineering Laboratory at NIST, where I contribute to measu
 * **Software Engineering:** Proficient in C++, Python, and data modeling (SQL, NoSQL).
 
 ### ⚡ Weekly Development Activity
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 8 hrs 47 mins
-
-reStructuredText   3 hrs 23 mins         █████████▓░░░░░░░░░░░░░░░   38.56 %
-Python             3 hrs 16 mins         █████████▒░░░░░░░░░░░░░░░   37.34 %
-PlantUML           1 hr 57 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
-Text               6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-JSON               2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-```
-
-<!--END_SECTION:waka-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeidk&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeidk&layout=compact)
 
 ---
 
