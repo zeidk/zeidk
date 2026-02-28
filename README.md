@@ -1,21 +1,20 @@
 # Zeid Kootbally
 
-**Computer Scientist** at the National Institute of Standards and Technology (NIST)  
-**Lecturer** at the University of Maryland
+**Computer Scientist** at the National Institute of Standards and Technology (NIST)
 
 ---
 
 ### ⚡ Professional Focus
-I lead programs at NIST focused on **Measurement Science for Automated Vehicles (MSAV)**, specifically researching behavioral planners and performance metrics. I also teach graduate-level courses in robotics, software development (ENPM809E, ENPM809Y), and database management (ENPM662).
+I am a member of the Engineering Laboratory at NIST, where I contribute to measurement science programs for robotics and autonomous systems. My work is centered on two key areas:
 
-### ⚡ Core Technical Interests
-* **Robotics & Simulation:** ROS/ROS 2, CARLA, and autonomous vehicle integration.
-* **Software Engineering:** C++, Python, and robust system architecture.
-* **Data Management:** Relational and NoSQL databases, data modeling, and normalization.
-* **Technical Communication:** Specialized in LaTeX for academic and professional documentation.
+* **Robot Agility:** I am part of a team developing quantitative test methods and metrics to assess the agility of robotic systems. We define agility as the capability of a system to perceive, decide, and act effectively in dynamic, uncertain environments.
+* **Autonomous Vehicle:** I focus on building a measurement science framework for assessing AI-driven behavioral planning in Automated Driving Systems (ADS).
 
-### ⚡ Weekly Activity
+### ⚡ Technical Expertise & Interests
+* **Software Engineering:** Proficient in C++, Python, and data modeling (SQL, NoSQL).
+
+### ⚡ Weekly Development Activity
 ---
 
 ### ⚡ Connect
-[NIST Profile](https://www.nist.gov/people/zeid-kootbally) | [Google Scholar](https://scholar.google.com/citations?user=zntPecQAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/zeidkootbally/)
+[NIST People Profile](https://www.nist.gov/people/zeid-kootbally) | [Google Scholar](https
