@@ -3,25 +3,29 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    # Runs every 12 hours to reduce frequent commit noise
+    - cron: "0 */12 * * *"
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update Profile Stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: ░▒▓█
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
+          # Using a cleaner, thinner block style
+          BLOCKS: "░▒▓█"
+          # Disabling high-visibility "vanity" metrics
+          SHOW_TIME: "False"
+          SHOW_TOTAL: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_OS: "False"
+          # Keeping the focus on your expertise
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LINES_OF_CODE: "True"
+          # Ensures the output is text-only for a humble look
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "False"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_LOC_CHART: "False"
-          SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
