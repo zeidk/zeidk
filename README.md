@@ -17,4 +17,4 @@ I am a member of the Engineering Laboratory at NIST, where I contribute to measu
 ---
 
 ### ⚡ Connect
-[NIST People Profile](https://www.nist.gov/people/zeid-kootbally) | [Google Scholar](https
+[NIST Profile](https://www.nist.gov/people/zeid-kootbally) | [Google Scholar](https://scholar.google.com/citations?user=zntPecQAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/zeidkootbally/) | [Resume](https://github.com/zeidk/resume/blob/main/resume.pdf)
