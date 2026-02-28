@@ -15,6 +15,17 @@ I am a member of the Engineering Laboratory at NIST, where I contribute to measu
 
 ### ⚡ Weekly Development Activity
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 8 hrs 47 mins
+
+reStructuredText   3 hrs 23 mins         █████████▓░░░░░░░░░░░░░░░   38.56 %
+Python             3 hrs 16 mins         █████████▒░░░░░░░░░░░░░░░   37.34 %
+PlantUML           1 hr 57 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
+Text               6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+JSON               2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
