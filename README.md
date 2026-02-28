@@ -14,6 +14,9 @@ I am a member of the Engineering Laboratory at NIST, where I contribute to measu
 * **Software Engineering:** Proficient in C++, Python, and data modeling (SQL, NoSQL).
 
 ### ⚡ Weekly Development Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ### ⚡ Connect
