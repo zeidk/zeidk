@@ -15,6 +15,15 @@ I am a member of the Engineering Laboratory at NIST, where I contribute to measu
 
 ### ⚡ Weekly Development Activity
 <!--START_SECTION:waka-->
+
+```txt
+reStructuredText                         ██████████░░░░░░░░░░░░░░░   39.59 %
+Python                                   █████████▒░░░░░░░░░░░░░░░   37.20 %
+PlantUML                                 █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
+Text                                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+JSON                                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
