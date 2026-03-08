@@ -17,10 +17,10 @@ I am a member of the Engineering Laboratory at NIST, where I contribute to measu
 <!--START_SECTION:waka-->
 
 ```txt
-Python                                   ███████████████▓░░░░░░░░░   62.66 %
-reStructuredText                         ███████▓░░░░░░░░░░░░░░░░░   30.96 %
-Text                                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-PlantUML                                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Python                                   █████████████████▒░░░░░░░   69.27 %
+reStructuredText                         ██████░░░░░░░░░░░░░░░░░░░   23.35 %
+PlantUML                                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Text                                     █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 Image (svg)                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
