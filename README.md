@@ -17,11 +17,11 @@ I am a member of the Engineering Laboratory at NIST, where I contribute to measu
 <!--START_SECTION:waka-->
 
 ```txt
-reStructuredText                         ████████▓░░░░░░░░░░░░░░░░   34.19 %
-Python                                   ███████▓░░░░░░░░░░░░░░░░░   30.11 %
-XML                                      ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-Other                                    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-TeX                                      ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+reStructuredText                         █████████░░░░░░░░░░░░░░░░   36.38 %
+Python                                   ███████▒░░░░░░░░░░░░░░░░░   29.02 %
+Other                                    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+XML                                      ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+TeX                                      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
 ```
 
 <!--END_SECTION:waka-->
