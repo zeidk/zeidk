@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 467mb of code in 7864 edited files across 894 commits</small>
+                <small>estimation from 467mb of code in 7879 edited files across 896 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.93713227677048" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="164.93713227677048" y="0" width="161.2719728950577" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="326.2091051718282" y="0" width="93.32117569766807" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="419.53028086949627" y="0" width="26.912260919728798" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="446.44254178922506" y="0" width="13.55745821077497" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.9478698244562" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="164.9478698244562" y="0" width="161.2661040932234" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="326.2139739176796" y="0" width="93.31777967368892" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="419.5317535913685" y="0" width="26.91128156340658" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="446.4430351547751" y="0" width="13.556964845224913" height="8" fill="#336790"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
