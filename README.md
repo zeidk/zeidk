@@ -17,7 +17,11 @@ I am a member of the Engineering Laboratory at NIST, where I contribute to measu
 <!--START_SECTION:waka-->
 
 ```txt
-Other                         █████████████████████████   100.00 %
+reStructuredText                         ███████████████▒░░░░░░░░░   60.71 %
+Markdown                                 ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
+Other                                    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+SSH Config                               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+INI                                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
