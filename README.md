@@ -17,7 +17,11 @@ I am a member of the Engineering Laboratory at NIST, where I contribute to measu
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+reStructuredText                         ██████████████████░░░░░░░   72.64 %
+Text                                     ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
+Python                                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+CSS                                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Other                                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
