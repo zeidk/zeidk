@@ -17,7 +17,11 @@ I am a member of the Engineering Laboratory at NIST, where I contribute to measu
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+reStructuredText                         ███████████▓░░░░░░░░░░░░░   46.51 %
+C++                                      █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
+CMake                                    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+Markdown                                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+TeX                                      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 ```
 
 <!--END_SECTION:waka-->
