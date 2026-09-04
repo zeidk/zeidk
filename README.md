@@ -17,11 +17,11 @@ I am a member of the Engineering Laboratory at NIST, where I contribute to measu
 <!--START_SECTION:waka-->
 
 ```txt
-reStructuredText                         ████████░░░░░░░░░░░░░░░░░   32.59 %
-C++                                      ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
-Markdown                                 ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-CMake                                    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Bash                                     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+reStructuredText                         █████████░░░░░░░░░░░░░░░░   35.76 %
+C++                                      ██████░░░░░░░░░░░░░░░░░░░   23.83 %
+CMake                                    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+Markdown                                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+Bash                                     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
 ```
 
 <!--END_SECTION:waka-->
